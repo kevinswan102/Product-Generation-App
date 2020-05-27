@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Homepwner</string>
+
+    <string name = "name"> Name </string>
+    <string name = "serial"> Serial </string>
+    <string name = "value"> Value </string>
+    <string name="date_picker_title">Date of crime:</string>
+    <string name="crime_suspect_text">Choose Suspect</string>
+    <string name="crime_report_text">Send Report</string>
+
+    <string name = "date"> Feb 12, 2020 </string>
+    <string name="new_crime">New Item</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d crimes</string>
+
+    <string name="crime_report">HomePwner Info: \n
+        Item name: %1$s \n
+        Item serial: %2$s \n
+        Item price: $%3$s \n
+        The date and time right now is %4$s
+</string>
+    <string name="crime_report_solved"></string>
+    <string name="crime_report_unsolved"></string>
+    <string name="crime_report_no_suspect">.</string>
+    <string name="crime_report_suspect">.</string>
+    <string name="crime_report_subject">HomePwner Report</string>
+    <string name="send_report">Send HomePwner report via</string>
+
+</resources>
