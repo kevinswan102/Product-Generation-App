@@ -1,4 +1,4 @@
-# Learning-Android-App
+# Product Generation App
 Worked with Android Studio to create an app that uses different application programming concepts such as ListViews, Localization, and the Android ViewPager. Unique serial numbers, titles, and prices are created for each item created in the application, and these numbers change each time the app is run. 
 
 # Screenshots
